@@ -46,7 +46,7 @@ We build a Deep Learning model with **Word Embeddings** and **LSTM networks** to
 
 ---
 
-## ✨ Author
+## ✨👩‍💻Author
 **Shalini Saurav**  
 
 ---
